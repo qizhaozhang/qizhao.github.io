@@ -1,0 +1,84 @@
+---
+update_time: '2018.02.27'
+name: 张其招
+nickname: xiao555
+meta_content: 四年后端狗，HR姐姐们把我招到碗里去吧
+keywords: qizhao,后端,工作,简历
+ga_id:
+age: 26岁
+gender: 男
+school: 东华理工大学
+profession: 软件工程
+grade:
+english_level:
+blog:
+github: https://www.github.com/qizhaozhang
+website: 
+online:
+print: https://qizhaozhang.github.io/Resume/print.html
+apply_to_position: PHP开发工程师
+description: !!md |
+  我叫张其招
+contact: # 联系方式
+  -
+    icon: fa-envelope
+    name: Email
+    value: 1599098375@qq.com
+  -
+    icon: fa-qq
+    name: QQ
+    value: '1599098375'
+  -
+    icon: fa-phone-square
+    name: PhoneNumber
+    value: '18910275619'
+honor: # 奖项荣誉
+tech: # 技能点
+  -
+    name: PHP
+    percentage: 90%
+  -
+    name: Linux
+    percentage: 70%
+  -
+    name: JavaScript
+    percentage: 60%
+  -
+    name: HTML/CSS
+    percentage: 50%
+
+experience: # 项目经验
+  -
+    section: 项目经历
+    project:
+      -
+        name: test
+        date: 2017.2
+        img:
+        website: https://github.com/xiao555/nunjucks-extend-loader
+        source_code:
+        des: !!md |
+          开发了一个多页应用脚手架[Webjucks](https://github.com/xiao555/Webjucks)，开发框架的过程中，自己写了个loader，已发布在npm上。用 Node的fs模块递归创建不存在的目录，最后通过回调函数完成最后一步copy文件的动作。
+
+
+  -
+    section: 工作经历
+    exper:
+      -
+        company: test
+        date: 2017.7.14 - 2017.9.1
+        desc: !!md |
+          1
+        project:
+
+
+
+
+skill: # 技能清单
+      -
+        des: !!md |
+          1
+
+
+
+---
